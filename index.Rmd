@@ -1,10 +1,13 @@
---- 
+---
 title: "周深9.29Hz巡回演唱会记录"
-author: "低碳南 xhs:shenshen_929 (我和老婆是生米)"
+author: "低碳南"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 # 9.29Hz巡演歌单
 
-[歌单](./img/playlists.png)
+
+```{r, echo=FALSE}
+knitr::include_graphics(rep("img/playlists.png"))
+```
