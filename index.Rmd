@@ -1,6 +1,6 @@
 --- 
-title: "9.29Hz巡演"
-author: "低碳南"
+title: "周深9.29Hz巡回演唱会记录"
+author: "低碳南 xhs:shenshen_929 (我和老婆是生米)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
