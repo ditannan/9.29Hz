@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "9.29Hz巡演"
+author: "低碳南"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
