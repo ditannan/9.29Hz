@@ -1,13 +1,73 @@
 ---
-title: "周深9.29Hz巡回演唱会记录"
+title: "周深9.29Hz十周年巡回演唱会Talking"
 author: "低碳南"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+documentclass: book
+biblio-style: apalike
 ---
 
-# 9.29Hz巡演歌单
+```{r setup, include=FALSE}
+set.seed(0728)
+
+knitr::opts_chunk$set(tidy = TRUE, webshot = "webshot")
+
+if (knitr::is_html_output()) {
+  # ignore percentage widths for HTML output, unless they are used for multiple
+  # figures side by side
+  knitr::opts_hooks$set(out.width = function(options) {
+    if (options$fig.show != 'hold' && grepl('%$', options$out.width))
+      options$out.width = NULL
+    options
+  })
+}
+
+# screenshot HTML widgets
+if (is.null(webshot:::find_phantom())) webshot::install_phantomjs()
+
+options(bookdown.post.latex = function(x) {
+  # substitute nonbreaking spaces in \texttt{} with normal spaces
+  m = gregexpr('\\\\texttt\\{[^}]+}', x)
+  regmatches(x, m) = lapply(regmatches(x, m), function(z) {
+    gsub('\\\\ ', ' ', z)
+  })
+  # only build a skeleton for the online version
+  if (Sys.getenv('BOOKDOWN_FULL_PDF', '') == 'false') return(bookdown:::strip_latex_body(
+    x, '\nThis PDF is only a skeleton. Please either read the free online HTML version, or purchase a hard-copy of this book.\n'
+    ))
+
+  # fix syntax highlighting:
+  # \FunctionTok{tufte:}\AttributeTok{:tufte_html: default} ->
+  # \FunctionTok{tufte::tufte_html:}\AttributeTok{ default}
+  x = gsub('(\\\\AttributeTok\\{[^:]+:)(})(\\\\FunctionTok\\{)(:[^:]+:)', '\\1\\4\\2\\3', x)
+  if (length(i <- grep('^\\\\begin\\{longtable\\}', x)) == 0) return(x)
+  i1 = bookdown:::next_nearest(i, which(x == '\\toprule'))
+  i2 = bookdown:::next_nearest(i, which(x == '\\endfirsthead'))
+  x[i1 - 1] = paste0(x[i1 - 1], '\n\\begin{tabular}{', gsub('[^lcr]', '', gsub('.*\\[]', '', x[i])), '}')
+  x[i] = '\\begin{table}'
+  x[x == '\\end{longtable}'] = '\\end{tabular}\n\\end{table}'
+  x[x == '\\endhead'] = ''
+  x = x[-unlist(mapply(seq, i1, i2, SIMPLIFY = FALSE))]
+  x
+})
+```
 
 
-```{r, echo=FALSE}
-knitr::include_graphics(rep("img/playlists.png"))
+# 前言 {-}
+
+
+[本书](http://929hz.com/)记录**周深9.29Hz十周年巡回演唱会**所有场次的现场Talking文字版，希望通过阅读这些文字，能唤起你演唱会的记忆。深深说过的话，也能成为我们的时光胶囊，能让我们记住很久很久！
+
+
+```{r, echo=FALSE, out.width = "500px"}
+knitr::include_graphics(rep("img/book-cover.jpg"))
+```
+
+
+
+```{asis, echo=!knitr::is_latex_output()}
+::: {.infobox .caution}
+**注意**: 本整理稿为人工整理，在线版免费阅读，禁止商用。欢迎生米们阅读，如果你又任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢!
+:::
+
 ```

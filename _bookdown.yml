@@ -5,4 +5,6 @@ edit: https://github.com/ditannan/9.29hz/edit/main/%s
 view: https://github.com/ditannan/9.29hz/blob/main/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    edit: Edit
+    chapter_name: !expr function(i) paste0('第', i, '场、')
+    appendix_name: "附录"

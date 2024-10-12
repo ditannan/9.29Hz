@@ -3,6 +3,6 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">9.29Hz巡演</a></li>
+        <li><a href="./">周深9.29Hz十周年巡回演唱会Talking</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
