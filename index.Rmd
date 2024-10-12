@@ -67,7 +67,7 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 
 ```{asis, echo=!knitr::is_latex_output()}
 ::: {.infobox .caution}
-**注意**: 本整理稿为人工整理，在线版免费阅读，禁止商用。欢迎生米们阅读，如果你又任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢!
+**注意**: 本整理稿为人工整理，在线版免费阅读，禁止商用。欢迎生米们阅读，如果你有任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢!
 :::
 
 ```
