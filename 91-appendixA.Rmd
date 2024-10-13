@@ -5,5 +5,5 @@
 ===================
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会歌单 【@929hz-playlists】'}
-knitr::include_graphics(rep("img/playlists.png"))
+knitr::include_graphics(rep("img/playlists/playlists.png"))
 ```

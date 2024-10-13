@@ -1,1 +1,6 @@
 # 2024.07.13贵阳场（WIP）
+
+
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.07.13贵阳场歌单', out.width = "500px"}
+knitr::include_graphics(rep("img/playlists/playlists-guiyang-20240713.png"))
+```

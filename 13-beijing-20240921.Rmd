@@ -1,5 +1,11 @@
 # 2024.09.21北京场 {#beijing-20240921}
 
+
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.09.21北京第一场歌单', out.width = "500px"}
+knitr::include_graphics(rep("img/playlists/playlists-beijing-20240921.png"))
+```
+
+
 ## Part1 
 🎵【借过一下】鸟巢的朋友们，你们好吗？
 
