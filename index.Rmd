@@ -5,6 +5,8 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 biblio-style: apalike
+bibliography: reference.bib
+link-citations: yes
 ---
 
 ```{r setup, include=FALSE}

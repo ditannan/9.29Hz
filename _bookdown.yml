@@ -8,3 +8,6 @@ language:
     edit: Edit
     chapter_name: !expr function(i) paste0('第', i, '场、')
     appendix_name: "附录"
+  label:
+    fig: "图"
+    tab: "表"

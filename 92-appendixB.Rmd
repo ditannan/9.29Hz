@@ -2,6 +2,6 @@
 
 # 9.29Hz巡回演唱会彩带 {#appendixB}
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会彩带合集【@mi-caidai】'}
 knitr::include_graphics(rep("img/mi.jpg"))
 ```
