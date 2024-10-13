@@ -75,11 +75,11 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 ```
 
 
-## 整理本稿动机（WIP）{-}
+## 整理本稿动机（WIP）{#motivation -}
 TODO
 
-## 关于作者(WIP) {-}
+## 关于作者(WIP) {#about-author -}
 低碳南
 
-## 致谢(WIP) {-}
+## 致谢(WIP) {#Acknowledgments -}
 感谢
