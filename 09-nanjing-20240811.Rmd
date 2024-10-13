@@ -1,6 +1,6 @@
 # 2024.08.11南京场（WIP） {#nanjing-20240811}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.08.11南京第二场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.08.11南京第二场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-nanjing-20240811.png"))
 ```

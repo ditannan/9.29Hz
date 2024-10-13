@@ -1,6 +1,6 @@
 # 2024.07.27武汉场（WIP）{#wuhan-20240727}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.07.27武汉场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.07.27武汉场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 ```

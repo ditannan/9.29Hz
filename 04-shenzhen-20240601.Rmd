@@ -1,6 +1,6 @@
 # 2024.06.01深圳场（WIP）{#shenzhen-20240601}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.06.01深圳场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.06.01深圳场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 ```

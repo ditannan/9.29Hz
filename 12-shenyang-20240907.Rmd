@@ -1,7 +1,7 @@
 # 2024.09.07沈阳场 {#shenyang-20240907}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.09.07沈阳场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.09.07沈阳场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-shenyang-20240907.png"))
 ```
 

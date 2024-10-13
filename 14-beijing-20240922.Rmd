@@ -1,7 +1,7 @@
 # 2024.09.22北京场 {#beijing-20240922}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.09.22北京第二场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.09.22北京第二场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-beijing-20240922.png"))
 ```
 

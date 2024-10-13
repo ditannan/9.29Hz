@@ -1,7 +1,7 @@
 # 2024.08.23杭州场 {#hangzhou-20240823}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.08.23杭州场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.08.23杭州场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-hangzhou-20240823.png"))
 ```
 

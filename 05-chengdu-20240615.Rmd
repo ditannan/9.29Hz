@@ -1,6 +1,6 @@
 # 2024.06.15成都场（WIP）{#chengdu-20240615}
 
 
-```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.06.15成都场歌单', out.width = "500px"}
+```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.06.15成都场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-chengdu-20240615.png"))
 ```
