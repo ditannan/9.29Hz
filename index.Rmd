@@ -7,6 +7,9 @@ documentclass: book
 biblio-style: apalike
 bibliography: reference.bib
 link-citations: yes
+description: "2024周深9.29Hz巡回演唱会Talking全程。"
+cover-image: "img/book-cover.jpg"
+favicon: "img/biaobiao.ico"
 ---
 
 ```{r setup, include=FALSE}
@@ -52,6 +55,15 @@ options(bookdown.post.latex = function(x) {
   x = x[-unlist(mapply(seq, i1, i2, SIMPLIFY = FALSE))]
   x
 })
+
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color,
+      x)
+  } else x
+}
 ```
 
 
