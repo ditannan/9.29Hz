@@ -1,5 +1,11 @@
 # 9.29Hz巡回演唱会VCR {#appendixC}
 
+[1.开场VCR](opening-vcr.html)
+
+[2.反深代词VCR](senself-vcr.html)
+
+[3.谢谢你VCR](thankyou-vcr.html)
+
 ## 开场VCR {#opening-vcr}
 
 > 赫兹指每秒声音波动的次数 
