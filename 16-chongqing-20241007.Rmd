@@ -78,7 +78,7 @@ knitr::include_graphics(rep("img/playlists/playlists-chongqing-20241007.png"))
 🎵【奇迹时刻】因为一定会出现很多奇迹时刻的~ 嗨起来~ 【魔术时间】现在又到我们的揭秘时刻啦，正如观众朋友们所见，这里有一个小红凳子和白椅子，对不对？（米：对）没办法，我最近的魔力见长了，我可以瞬间让他们换位置，你们信吗？全场数三个数，3（米：21）呕吼，救命啊，我要穿帮了，但是我觉得这样的肯定是不够用的，所以大家再给我三个数，321，还是不够用，再给我三个数字，321，最后三个数字， 321 ~ 大家掌声在哪里~ 
 
 
-```{r chongqing2-magic, echo=FALSE, fig.cap='重庆第二场魔术图【@ForCharlie-weibo, @chongqing20241007-001】', out.width = "50%", fig.align='center', out.width='200px', fig.show = "hold"}
+```{r chongqing2-magic, echo=FALSE, fig.cap='重庆第二场魔术图【@ForCharlie-weibo, @chongqing20241007-001】', out.width = "50%", fig.align='center', out.width='300px', fig.show = "hold"}
 knitr::include_graphics(c("img/chongqing20241007/002.jpg", "img/chongqing20241007/001.png"))
 ```
 
