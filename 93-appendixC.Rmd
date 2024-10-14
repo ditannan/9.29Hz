@@ -1,6 +1,6 @@
 # 9.29Hz巡回演唱会VCR {#appendixC}
 
-## 开场VCR
+## 开场VCR {#opening-vcr}
 
 > 赫兹指每秒声音波动的次数 
 > 
@@ -40,7 +40,7 @@
 > 
 > 我们的相聚才更有意义
 
-## 反深代词VCR
+## 反深代词VCR {#senself-vcr}
 
 > 我听见了
 > 
@@ -62,7 +62,7 @@
 > 
 > 我听见你
 
-## 谢谢你VCR
+## 谢谢你VCR {#thankyou-vcr}
 
 > 嗨
 > 

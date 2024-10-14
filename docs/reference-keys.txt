@@ -15,6 +15,7 @@ fig:unnamed-chunk-16
 fig:unnamed-chunk-17
 fig:unnamed-chunk-18
 fig:unnamed-chunk-19
+fig:unnamed-chunk-20
 shanghai-20240518
 shanghai-20240519
 shenzhen-20240601
@@ -68,7 +69,7 @@ part5-6
 appendixA
 appendixB
 appendixC
-开场vcr
-反深代词vcr
-谢谢你vcr
+opening-vcr
+senself-vcr
+thankyou-vcr
 appendixD
