@@ -23,6 +23,11 @@ chengdu-20240615
 guiyang-20240713
 wuhan-20240727
 nanjing-20240810
+nanjing-20240810-part1
+nanjing-20240810-part2
+nanjing-20240810-part3
+nanjing-20240810-part4
+nanjing-20240810-part5
 nanjing-20240811
 hangzhou-20240823
 hangzhou-20240823-part1

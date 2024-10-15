@@ -70,10 +70,10 @@ colorize <- function(x, color) {
 # 前言 {-}
 
 
-[本书](http://929hz.com/)记录**周深9.29Hz十周年巡回演唱会**所有场次的现场Talking文字版，希望通过阅读这些文字，能唤起你演唱会的记忆。深深说过的话，也能成为我们的时光胶囊，承载我们快乐的记忆，能让我们记住很久很久！
+[本书](https://929hz.com/)记录**周深9.29Hz十周年巡回演唱会**所有场次的现场Talking文字版，希望通过阅读这些文字，能唤起你演唱会的记忆。深深说过的话，也能成为我们的时光胶囊，承载我们快乐的记忆，能让我们记住很久很久！
 
 
-```{r, echo=FALSE, out.width = "500px"}
+```{r, echo=FALSE, out.width = "500px", fig.align='center'}
 knitr::include_graphics(rep("img/book-cover.jpg"))
 ```
 
@@ -81,14 +81,16 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 
 ```{asis, echo=!knitr::is_latex_output()}
 ::: {.infobox .caution}
-**注意**: 本整理稿为人工整理，在线版免费阅读，禁止商用。欢迎生米们阅读，如果你有任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢!
+**注意!**
+
+本整理稿在线版免费阅读，禁止商用!
 :::
 
 ```
 
 
-## 整理本稿动机（WIP）{#motivation -}
-TODO
+## 关于本书(WIP) {#motivation -}
+欢迎生米们阅读，如果你有任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢
 
 ## 关于作者(WIP) {#about-author -}
 低碳南
