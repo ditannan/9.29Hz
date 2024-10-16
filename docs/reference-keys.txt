@@ -77,4 +77,5 @@ appendixC
 opening-vcr
 senself-vcr
 thankyou-vcr
-appendixD
+appendix-my-journey
+appendix-song-lyric

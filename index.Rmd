@@ -71,7 +71,8 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 ::: {.author-section}
 
 :::{.author-text}
-&emsp;&emsp;活跃于某红书，某红书昵称`我和老婆是生米`，被其妻影响而成为一名生米，因年纪不小，被戏称为米叔。
+&emsp;&emsp;活跃于某红书，某红书昵称`我和老婆是生米`，曾用名`我的女朋友是生米`、`我的老婆是生米`，因其妻是生米，在陪妻挖矿及追现场过程中也逐渐成为一名生米，因年纪不小，用深深的话就是“我也老大不小了”，被一些年轻米子称为米叔。关于我是如何成为生米的，可参见附录[我是如何一步一步掉入米缸的](#appendix-my-journey)。
+&emsp;&emsp;
 :::
 
 ::: {.author-image}
