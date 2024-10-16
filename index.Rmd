@@ -76,7 +76,7 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 :::
 
 ::: {.author-image}
-![](img/pang-mi.png)
+![](img/mijie.jpg)
 :::
 
 :::

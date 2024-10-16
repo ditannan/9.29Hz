@@ -4,3 +4,61 @@
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.05.18上海第一场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 ```
+
+
+Part1 {#shanghai-20240518-part1}
+🎵【借过一下】
+
+🎵【Monsters】【化身孤岛的鲸】
+
+🎵【光亮】
+
+🎵【若梦】
+
+🎵【浮光】
+
+Part2 {#shanghai-20240518-part2} 
+🎵【请我不改】
+
+🎵【蜃楼】【警报】
+
+🎵【天堂岛之歌】
+
+🎵【达啦崩吧】
+
+🎵【人是_】
+
+Part3 {#shanghai-20240518-part3}
+
+🎵【My Only + Rubia】
+🎵【小美满】
+🎵【花开忘忧】
+🎵【邓丽君歌单组曲】
+
+Part4 {#shanghai-20240518-part4}
+🎵【灯火里的中国】
+
+🎵【wala li longla】
+
+🎵【太阳出来喜洋洋】
+
+🎵【奇迹时刻】
+
+🎵【璀璨冒险人】
+
+【点歌环节】
+
+🎵【】
+
+🎵【】
+
+🎵【不想睡】
+
+🎵【我以渺小爱你】
+
+Part {#shanghai-20240518-part5}
+🎵【起风了】
+
+🎵【大鱼】
+
+🎵【少管我】

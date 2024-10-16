@@ -20,6 +20,11 @@ shanghai-20240518
 shanghai-20240519
 shenzhen-20240601
 chengdu-20240615
+chengdu-20240615-part1
+chengdu-20240615-part2
+chengdu-20240615-part3
+chengdu-20240615-part4
+chengdu-20240615-part5
 guiyang-20240713
 wuhan-20240727
 nanjing-20240810
@@ -76,6 +81,7 @@ appendixB
 appendixC
 opening-vcr
 senself-vcr
-thankyou-vcr
+close-door-vcr
+thank-you-vcr
 appendix-my-journey
 appendix-song-lyric
