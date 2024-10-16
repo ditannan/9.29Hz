@@ -22,9 +22,25 @@ pre code {
 }
 
 .caution {
-  background-image: url("img/mi-caution.png");
+  background-image: url("img/pang-mi.png");
 }
 
 .center {
   text-align: center;
+}
+
+.author-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.author-text {
+    flex: 1;
+    margin-right: 20px; /* Adjust as needed for spacing */
+}
+
+.author-image {
+    flex: 1;
+    text-align: right; /* Align the image to the right */
+    max-width: 30%; /* Set the maximum width of the image */
 }
