@@ -1,14 +1,14 @@
 # 2024.08.24杭州场 {#hangzhou-20240824}
 
-[1. Part1](hangzhou-20240824-part1.html)
+[1. Part1](#hangzhou-20240824-part1)
 
-[2. Part2](hangzhou-20240824-part2.html)
+[2. Part2](#hangzhou-20240824-part2)
 
-[3. Part3](hangzhou-20240824-part3.html)
+[3. Part3](#hangzhou-20240824-part3)
 
-[4. Part4](hangzhou-20240824-part4.html)
+[4. Part4](#hangzhou-20240824-part4)
 
-[5. Part5](hangzhou-20240824-part5.html)
+[5. Part5](#hangzhou-20240824-part5)
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.08.24杭州场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-hangzhou-20240824.png"))

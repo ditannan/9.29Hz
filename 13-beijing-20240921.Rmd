@@ -1,14 +1,14 @@
 # 2024.09.21北京场 {#beijing-20240921}
 
-[1. Part1](beijing-20240921-part1.html)
+[1. Part1](#beijing-20240921-part1)
 
-[2. Part2](beijing-20240921-part2.html)
+[2. Part2](#beijing-20240921-part2)
 
-[3. Part3](beijing-20240921-part3.html)
+[3. Part3](#beijing-20240921-part3)
 
-[4. Part4](beijing-20240921-part4.html)
+[4. Part4](#beijing-20240921-part4)
 
-[5. Part5](beijing-20240921-part5.html)
+[5. Part5](#beijing-20240921-part5)
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.09.21北京第一场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-beijing-20240921.png"))

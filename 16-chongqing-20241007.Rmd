@@ -1,14 +1,14 @@
 # 2024.10.07重庆场 {#chongqing-20241007}
 
-[1. Part1](chongqing-20241007-part1.html)
+[1. Part1](#chongqing-20241007-part1)
 
-[2. Part2](chongqing-20241007-part2.html)
+[2. Part2](#chongqing-20241007-part2)
 
-[3. Part3](chongqing-20241007-part3.html)
+[3. Part3](#chongqing-20241007-part3)
 
-[4. Part4](chongqing-20241007-part4.html)
+[4. Part4](#chongqing-20241007-part4)
 
-[5. Part5](chongqing-20241007-part5.html)
+[5. Part5](#chongqing-20241007-part5)
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.10.07重庆第二场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-chongqing-20241007.png"))

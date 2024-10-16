@@ -59,16 +59,19 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 
 
 ## 关于本书(WIP) {#motivation -}
+
+> 只要你们想我的时候就可以打开那个文档。——周深
+
 欢迎生米们阅读，如果你有任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢
 
 ## 关于作者(WIP) {#about-author -}
-低碳南
+### 低碳南 {-#author-name}
 
 ```{asis, echo=!knitr::is_latex_output()}
 ::: {.author-section}
 
 :::{.author-text}
-活跃于某红书，某红书昵称`我和老婆是生米`，被其妻影响而成为一名生米，因年纪不小，被戏称为米叔。
+&emsp;&emsp;活跃于某红书，某红书昵称`我和老婆是生米`，被其妻影响而成为一名生米，因年纪不小，被戏称为米叔。
 :::
 
 ::: {.author-image}
