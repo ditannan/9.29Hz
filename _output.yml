@@ -12,7 +12,7 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">周深9.29Hz十周年巡回演唱会Talking</a></li>
+        <li><a href="./">周深9.29Hz十周年巡回演唱会Talking合集</a></li>
       after: |
         <li><a href="https://weibo.com/1736988591?tabtype=home" target="blank">深深微博</a></li>
         <li><a href="https://weibo.com/7478855230?tabtype=home" target="blank">周深工作室微博</a></li>
