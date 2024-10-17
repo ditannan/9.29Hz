@@ -2,6 +2,8 @@ bookdown::gitbook:
   split_by: section
   split_bib: false
   css: style.css
+  includes:
+    after_body: giscus.html
   config:
     edit:
       link: https://github.com/ditannan/9.29Hz/edit/master/%s
