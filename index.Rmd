@@ -62,7 +62,9 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 
 > 只要你们想我的时候就可以打开那个文档。——周深
 
-欢迎生米们阅读，如果你有任何疑问或者反馈，请 [提交反馈](https://github.com/ditannan/9.29Hz/issues/new)。谢谢
+&emsp;&emsp;
+
+欢迎生米们阅读，如果你有任何疑问或者反馈。谢谢
 
 ## 关于作者(WIP) {#about-author -}
 ### 低碳南 {-#author-name}
@@ -76,7 +78,7 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 :::
 
 ::: {.author-image}
-![](img/mijie.jpg)
+![](img/mijie.png)
 :::
 
 :::
