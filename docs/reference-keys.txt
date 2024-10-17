@@ -76,9 +76,10 @@ chongqing-20241007-part2
 chongqing-20241007-part3
 chongqing-20241007-part4
 chongqing-20241007-part5
-appendixA
-appendixB
-appendixC
+playlists
+appendix-caidai
+appendix-gift
+appendix-vcr
 opening-vcr
 senself-vcr
 close-door-vcr
