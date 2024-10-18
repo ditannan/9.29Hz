@@ -4,3 +4,10 @@
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.07.27武汉场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 ```
+
+
+***
+
+```{r, echo=FALSE, fig.cap='周深武汉体育中心主体育场演唱会结束微博 【@weibo-charlie】'}
+knitr::include_graphics(rep("img/weibo/wuhan-20240727.png"))
+```

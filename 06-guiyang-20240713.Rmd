@@ -4,3 +4,11 @@
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.07.13贵阳场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-guiyang-20240713.png"))
 ```
+
+
+
+***
+
+```{r, echo=FALSE, fig.cap='周深贵阳奥林匹克体育中心体育场演唱会结束微博 【@weibo-charlie】'}
+knitr::include_graphics(rep("img/weibo/guiyang-20240714.png"))
+```

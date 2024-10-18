@@ -5,3 +5,9 @@
 knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 ```
 
+
+***
+
+```{r, echo=FALSE, fig.cap='周深上海梅赛德斯奔驰文化中心演唱会结束微博 【@weibo-charlie】'}
+knitr::include_graphics(rep("img/weibo/shanghai-20240519.png"))
+```
