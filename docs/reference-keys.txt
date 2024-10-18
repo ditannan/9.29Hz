@@ -101,5 +101,5 @@ close-door-vcr
 thank-you-vcr
 appendix-my-journey
 appendix-song-lyric
-id_929hz-related
-工作室回顾vlog
+related-929hz
+review-vlog
