@@ -103,3 +103,16 @@ knitr::include_graphics(rep("img/playlists/playlists-beijing-20240922.png"))
 ```{r, echo=FALSE, fig.cap='周深国家体育场（鸟巢）演唱会结束微博 【@weibo-charlie】'}
 knitr::include_graphics(rep("img/weibo/beijing-20240923.png"))
 ```
+
+***
+
+
+```{asis, echo=!knitr::is_latex_output()}
+::: {.infobox .kaoya-mi}
+
+
+[2024 周深 9.29Hz巡回演唱会 北京站回顾](http://t.cn/A6EoUS7a) —— @weibo-charlie-studio
+:::
+
+```
+

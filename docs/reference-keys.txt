@@ -20,12 +20,12 @@ fig:unnamed-chunk-22
 fig:unnamed-chunk-23
 fig:unnamed-chunk-24
 fig:unnamed-chunk-25
-fig:unnamed-chunk-26
 fig:unnamed-chunk-27
-fig:chongqing2-magic
 fig:unnamed-chunk-28
+fig:chongqing2-magic
 fig:unnamed-chunk-29
 fig:unnamed-chunk-30
+fig:unnamed-chunk-31
 shanghai-20240518
 shanghai-20240518-part1
 shanghai-20240518-part2
@@ -101,3 +101,5 @@ close-door-vcr
 thank-you-vcr
 appendix-my-journey
 appendix-song-lyric
+id_929hz-related
+工作室回顾vlog

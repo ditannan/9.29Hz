@@ -49,7 +49,7 @@ knitr::include_graphics(rep("img/book-cover.jpg"))
 
 
 ```{asis, echo=!knitr::is_latex_output()}
-::: {.infobox .caution}
+::: {.infobox .pang-mi}
 **注意!**
 
 本整理稿在线版免费阅读，禁止商用!
