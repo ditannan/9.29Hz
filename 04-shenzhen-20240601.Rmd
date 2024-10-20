@@ -1,11 +1,87 @@
 # 2024.06.01深圳场（WIP）{#shenzhen-20240601}
 
+- [Part1](#shenzhen-20240601-part1)
+
+- [Part2](#shenzhen-20240601-part2)
+
+- [Part3](#shenzhen-20240601-part3)
+
+- [Part4](#shenzhen-20240601-part4)
+
+- [Part5](#shenzhen-20240601-part5)
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.06.01深圳场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 ```
 
 
+## Part1 {#shenzhen-20240601-part1}
+[🎥【开场VCR】](#opening-vcr)
+
+[🎵【借过一下】](#I-will-go-my-way)
+
+[🎵【Monsters】](#Monsters)
+
+[🎵【化身孤岛的鲸】](#hua-shen-gu-dao-de-jing)
+
+[🎵【光亮】](#guangliang)
+
+[🎵【若梦】](#ruomeng)
+
+[🎵【浮光】](#fuguang)
+
+## Part2 {#shenzhen-20240601-part2}
+[🎥【反深代词VCR】](#senself-vcr)
+
+[🎵【蜃楼】](#mirage)
+
+[🎵【警报】](#the-giver)
+
+[🎵【浅浅】](#qianqian)
+
+🎵【天堂岛之歌】
+
+🎵【达啦崩吧】
+
+🎵【儿歌串烧】
+
+🎵【人是_】
+
+## Part3 {#shenzhen-20240601-part3}
+
+🎵【My Only + Rubia】
+
+🎵【小美满】
+
+🎵【花开忘忧】 
+
+🎵【邓丽君歌单组曲】
+
+## Part4 {#shenzhen-20240601-part4}
+[🎥【谢谢深圳，谢谢你VCR】](#thank-you-vcr)
+
+🎵【听我说+望】
+
+🎵【奇迹时刻】
+
+🎵【璀璨冒险人】
+
+【点歌环节】
+
+🎵【时结】
+
+🎵【不想睡】
+
+🎵【我以渺小爱你】
+
+
+## Part5 {#shenzhen-20240601-part5}
+🎵【起风了】
+
+🎵【大鱼】
+
+
+[🎵【少管我】](#watch-ur-manners)
 
 ***
 

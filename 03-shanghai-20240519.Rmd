@@ -1,10 +1,88 @@
 # 2024.05.19上海场（WIP）{#shanghai-20240519}
 
+- [Part1](#shanghai-20240519-part1)
+
+- [Part2](#shanghai-20240519-part2)
+
+- [Part3](#shanghai-20240519-part3)
+
+- [Part4](#shanghai-20240519-part4)
+
+- [Part5](#shanghai-20240519-part5)
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.05.19上海第二场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 ```
 
+
+## Part1 {#shanghai-20240519-part1}
+[🎥【开场VCR】](#opening-vcr)
+
+[🎵【借过一下】](#I-will-go-my-way)
+
+[🎵【Monsters】](#Monsters)
+
+[🎵【光亮】](#guangliang)
+
+[🎵【化身孤岛的鲸】](#hua-shen-gu-dao-de-jing)
+
+[🎵【若梦】](#ruomeng)
+
+[🎵【浮光】](#fuguang)
+
+## Part2 {#shanghai-20240519-part2}
+[🎥【反深代词VCR】](#senself-vcr)
+
+[🎵【蜃楼】](#mirage)
+
+[🎵【警报】](#the-giver)
+
+[🎵【浅浅】](#qianqian)
+
+🎵【天堂岛之歌】
+
+🎵【达啦崩吧】
+
+🎵【人是_】
+
+## Part3 {#shanghai-20240519-part3}
+
+🎵【铃芽之旅】
+
+[🎥【关闭客服大门VCR】](#close-door-vcr)
+
+🎵【小美满】
+
+🎵【花开忘忧】 
+
+🎵【My Only + Rubia】
+
+🎵【邓丽君歌单组曲】
+
+## Part4 {#shanghai-20240519-part4}
+[🎥【谢谢上海，谢谢你VCR】](#thank-you-vcr)
+
+🎵【听我说+望】
+
+🎵【璀璨冒险人】
+
+【点歌环节】
+
+🎵【夏日友晴天】
+
+🎵【可它爱着这个世界】
+
+🎵【不想睡】
+
+🎵【我以渺小爱你】
+
+
+## Part5 {#shanghai-20240519-part5}
+🎵【起风了】
+
+🎵【大鱼】
+
+[🎵【少管我】](#watch-ur-manners)
 
 ***
 

@@ -1,26 +1,47 @@
 # 2024.05.18上海场（WIP）{#shanghai-20240518}
 
 
+- [Part1](#shanghai-20240518-part1)
+
+- [Part2](#shanghai-20240518-part2)
+
+- [Part3](#shanghai-20240518-part3)
+
+- [Part4](#shanghai-20240518-part4)
+
+- [Part5](#shanghai-20240518-part5)
+
+
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.05.18上海第一场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 ```
 
 
 ## Part1 {#shanghai-20240518-part1}
-🎵【借过一下】
+[🎥【开场VCR】](#opening-vcr)
 
-🎵【Monsters】【化身孤岛的鲸】
+[🎵【借过一下】](#I-will-go-my-way)
 
-🎵【光亮】
+[🎵【Monsters】](#Monsters)
 
-🎵【若梦】
+[🎵【光亮】](#guangliang)
 
-🎵【浮光】
+[🎵【化身孤岛的鲸】](#hua-shen-gu-dao-de-jing)
 
-## Part2 {#shanghai-20240518-part2} 
-🎵【请我不改】
+[🎵【蓝色降落伞】](#blue-parachute)
 
-🎵【蜃楼】【警报】
+[🎵【若梦】](#ruomeng)
+
+[🎵【浮光】](#fuguang)
+
+## Part2 {#shanghai-20240518-part2}
+[🎥【反深代词VCR】](#senself-vcr)
+
+[🎵【蜃楼】](#mirage)
+
+[🎵【警报】](#the-giver)
+
+[🎵【浅浅】](#qianqian)
 
 🎵【天堂岛之歌】
 
@@ -30,38 +51,40 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 
 ## Part3 {#shanghai-20240518-part3}
 
-🎵【My Only + Rubia】
+🎵【铃芽之旅】
+
+[🎥【关闭客服大门VCR】](#close-door-vcr)
 
 🎵【小美满】
 
-🎵【花开忘忧】
+🎵【花开忘忧】 
+
+🎵【My Only + Rubia】
 
 🎵【邓丽君歌单组曲】
 
+🎵【月亮代表我的心】
+
 ## Part4 {#shanghai-20240518-part4}
-🎵【灯火里的中国】
+[🎥【谢谢上海，谢谢你VCR】](#thank-you-vcr)
 
-🎵【wala li longla】
-
-🎵【太阳出来喜洋洋】
-
-🎵【奇迹时刻】
+🎵【听我说+望】
 
 🎵【璀璨冒险人】
 
 【点歌环节】
 
-🎵【】
-
-🎵【】
+🎵【来不及勇敢】
 
 🎵【不想睡】
 
 🎵【我以渺小爱你】
+
 
 ## Part5 {#shanghai-20240518-part5}
 🎵【起风了】
 
 🎵【大鱼】
 
-🎵【少管我】
+
+[🎵【少管我】](#watch-ur-manners)

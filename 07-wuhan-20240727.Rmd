@@ -1,10 +1,89 @@
 # 2024.07.27武汉场（WIP）{#wuhan-20240727}
 
+- [Part1](#wuhan-20240727-part1)
+
+- [Part2](#wuhan-20240727-part2)
+
+- [Part3](#wuhan-20240727-part3)
+
+- [Part4](#wuhan-20240727-part4)
+
+- [Part5](#wuhan-20240727-part5)
 
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会2024.07.27武汉场歌单', out.width = "400px"}
 knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 ```
 
+
+## Part1 {#wuhan-20240727-part1}
+[🎥【开场VCR】](#opening-vcr)
+
+[🎵【借过一下】](#I-will-go-my-way)
+
+[🎵【Monsters】](#Monsters)
+
+[🎵【化身孤岛的鲸】](#hua-shen-gu-dao-de-jing)
+
+[🎵【光亮】](#guangliang)
+
+[🎵【若梦】](#ruomeng)
+
+[🎵【浮光】](#fuguang)
+
+## Part2 {#wuhan-20240727-part2}
+[🎥【反深代词VCR】](#senself-vcr)
+
+[🎵【蜃楼】](#mirage)
+
+[🎵【警报】](#the-giver)
+
+[🎵【嗨】](#say-hi)
+
+🎵【天堂岛之歌】
+
+🎵【达啦崩吧】
+
+🎵【人是_】
+
+## Part3 {#wuhan-20240727-part3}
+
+🎵【欢颜】
+
+🎵【小美满】
+
+🎵【花开忘忧】 
+
+🎵【My Only + Rubia】
+
+🎵【邓丽君歌单组曲】
+
+## Part4 {#wuhan-20240727-part4}
+[🎥【谢谢武汉，谢谢你VCR】](#thank-you-vcr)
+
+🎵【听我说+望】
+
+🎵【奇迹时刻】
+
+🎵【生日祝福歌】
+
+🎵【璀璨冒险人】
+
+【点歌环节】
+
+🎵【三餐四季】
+
+🎵【不想睡】
+
+🎵【我以渺小爱你】
+
+
+## Part5 {#wuhan-20240727-part5}
+🎵【起风了】
+
+🎵【大鱼】
+
+
+[🎵【少管我】](#watch-ur-manners)
 
 ***
 

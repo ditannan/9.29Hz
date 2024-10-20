@@ -7,3 +7,12 @@
 ```{r, echo=FALSE, fig.cap='2024周深9.29Hz巡回演唱会歌单 【@929hz-playlists】'}
 knitr::include_graphics(rep("img/playlists/playlists.png"))
 ```
+
+***
+
+```{asis, echo=!knitr::is_latex_output()}
+::: {.infobox .panda-pang-mi}
+**温馨提示：** [点击查看表格源文件](https://docs.qq.com/sheet/DQnljT2JpaVVqRWhC?tab=BB08J2)
+:::
+
+```

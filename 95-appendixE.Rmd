@@ -31,13 +31,12 @@
 ***
 
 ```{asis, echo=!knitr::is_latex_output()}
-::: {.center}
+::: {.infobox .mijie}
 
 **欢迎在下面评论区分享你与深深的故事~**
 :::
 
 ```
 
-
-              
+        
        
