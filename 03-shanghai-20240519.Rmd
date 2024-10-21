@@ -51,7 +51,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 
 [🎥【关闭客服大门VCR】](#close-door-vcr)
 
-🎵【小美满】
+[🎵【小美满】](#happy-ending)
 
 🎵【花开忘忧】 
 
@@ -64,7 +64,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 
 🎵【听我说+望】
 
-🎵【璀璨冒险人】
+[🎵【璀璨冒险人】](#adventurers)
 
 【点歌环节】
 

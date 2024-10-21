@@ -51,7 +51,7 @@ knitr::include_graphics(rep("img/playlists/playlists-nanjing-20240811.png"))
 
 ## Part3 {#nanjing-20240811-part3}
 
-🎵【小美满】
+[🎵【小美满】](#happy-ending)
 
 🎵【花开忘忧】 
 
@@ -66,11 +66,11 @@ knitr::include_graphics(rep("img/playlists/playlists-nanjing-20240811.png"))
 
 🎵【听我说+望】
 
-🎵【奇迹时刻】
+[🎵【奇迹时刻】](#magic-moment)
 
-🎵【wala li longla】
+[🎵【wala li longla】](#wala-li-longla)
 
-🎵【璀璨冒险人】
+[🎵【璀璨冒险人】](#adventurers)
 
 【点歌环节】
 
