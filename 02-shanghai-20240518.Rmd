@@ -43,11 +43,11 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 
 [🎵【浅浅】](#qianqian)
 
-🎵【天堂岛之歌】
+[🎵【天堂岛之歌】](#haven-song)
 
-🎵【达啦崩吧】
+[🎵【达啦崩吧】](#dalabengba)
 
-🎵【人是_】
+[🎵【人是_】](#renshi)
 
 ## Part3 {#shanghai-20240518-part3}
 
@@ -82,9 +82,9 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 
 
 ## Part5 {#shanghai-20240518-part5}
-🎵【起风了】
+[🎵【起风了】](#the-wind-rises)
 
-🎵【大鱼】
+[🎵【大鱼】](#big-fish)
 
 
 [🎵【少管我】](#watch-ur-manners)

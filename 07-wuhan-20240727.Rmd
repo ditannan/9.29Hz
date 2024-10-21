@@ -39,11 +39,11 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 
 [🎵【嗨】](#say-hi)
 
-🎵【天堂岛之歌】
+[🎵【天堂岛之歌】](#haven-song)
 
-🎵【达啦崩吧】
+[🎵【达啦崩吧】](#dalabengba)
 
-🎵【人是_】
+[🎵【人是_】](#renshi)
 
 ## Part3 {#wuhan-20240727-part3}
 
@@ -78,9 +78,9 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 
 
 ## Part5 {#wuhan-20240727-part5}
-🎵【起风了】
+[🎵【起风了】](#the-wind-rises)
 
-🎵【大鱼】
+[🎵【大鱼】](#big-fish)
 
 
 [🎵【少管我】](#watch-ur-manners)
