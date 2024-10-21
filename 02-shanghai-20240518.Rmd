@@ -51,13 +51,13 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 
 ## Part3 {#shanghai-20240518-part3}
 
-🎵【铃芽之旅】
+[🎵【铃芽之旅】](#travel-lingya)
 
 [🎥【关闭客服大门VCR】](#close-door-vcr)
 
 [🎵【小美满】](#happy-ending)
 
-🎵【花开忘忧】 
+[🎵【花开忘忧】](#no-worries) 
 
 🎵【My Only + Rubia】
 

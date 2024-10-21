@@ -53,7 +53,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 
 [🎵【小美满】](#happy-ending)
 
-🎵【花开忘忧】 
+[🎵【花开忘忧】](#no-worries) 
 
 🎵【邓丽君歌单组曲】
 

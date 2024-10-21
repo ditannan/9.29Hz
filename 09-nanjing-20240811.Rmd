@@ -53,7 +53,7 @@ knitr::include_graphics(rep("img/playlists/playlists-nanjing-20240811.png"))
 
 [🎵【小美满】](#happy-ending)
 
-🎵【花开忘忧】 
+[🎵【花开忘忧】](#no-worries) 
 
 🎵【My Only + Rubia】
 
