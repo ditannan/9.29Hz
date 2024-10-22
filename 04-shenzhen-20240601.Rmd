@@ -60,7 +60,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 ## Part4 {#shenzhen-20240601-part4}
 [🎥【谢谢深圳，谢谢你VCR】](#thank-you-vcr)
 
-[🎵【听我说】](#listen-to-me) [🎵【望】](#hope)
+[🎵【听我说】](#listen-to-me) [🎵【望】](hope.html)
 
 [🎵【奇迹时刻】](#magic-moment)
 

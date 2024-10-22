@@ -68,7 +68,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 ## Part4 {#shanghai-20240518-part4}
 [🎥【谢谢上海，谢谢你VCR】](#thank-you-vcr)
 
-[🎵【听我说】](#listen-to-me) [🎵【望】](#hope)
+[🎵【听我说】](#listen-to-me) [🎵【望】](hope.html)
 
 [🎵【璀璨冒险人】](#adventurers)
 
