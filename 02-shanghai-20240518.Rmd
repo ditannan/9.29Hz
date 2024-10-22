@@ -63,12 +63,12 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 
 🎵【邓丽君歌单组曲】
 
-🎵【月亮代表我的心】
+[🎵【月亮代表我的心】](#my-heart-is-moon)
 
 ## Part4 {#shanghai-20240518-part4}
 [🎥【谢谢上海，谢谢你VCR】](#thank-you-vcr)
 
-🎵【听我说+望】
+[🎵【听我说】](#listen-to-me) [🎵【望】](#hope)
 
 [🎵【璀璨冒险人】](#adventurers)
 
@@ -76,9 +76,9 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240518.png"))
 
 🎵【来不及勇敢】
 
-🎵【不想睡】
+[🎵【不想睡】](#keep-playing)
 
-🎵【我以渺小爱你】
+[🎵【我以渺小爱你】](#love-you)
 
 
 ## Part5 {#shanghai-20240518-part5}

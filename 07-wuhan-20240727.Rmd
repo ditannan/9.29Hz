@@ -60,7 +60,7 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 ## Part4 {#wuhan-20240727-part4}
 [🎥【谢谢武汉，谢谢你VCR】](#thank-you-vcr)
 
-🎵【听我说+望】
+[🎵【听我说】](#listen-to-me) [🎵【望】](#hope)
 
 [🎵【奇迹时刻】](#magic-moment)
 
@@ -72,9 +72,9 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 
 🎵【三餐四季】
 
-🎵【不想睡】
+[🎵【不想睡】](#keep-playing)
 
-🎵【我以渺小爱你】
+[🎵【我以渺小爱你】](#love-you)
 
 
 ## Part5 {#wuhan-20240727-part5}

@@ -60,7 +60,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 ## Part4 {#shenzhen-20240601-part4}
 [🎥【谢谢深圳，谢谢你VCR】](#thank-you-vcr)
 
-🎵【听我说+望】
+[🎵【听我说】](#listen-to-me) [🎵【望】](#hope)
 
 [🎵【奇迹时刻】](#magic-moment)
 
@@ -70,9 +70,9 @@ knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 
 🎵【时结】
 
-🎵【不想睡】
+[🎵【不想睡】](#keep-playing)
 
-🎵【我以渺小爱你】
+[🎵【我以渺小爱你】](#love-you)
 
 
 ## Part5 {#shenzhen-20240601-part5}

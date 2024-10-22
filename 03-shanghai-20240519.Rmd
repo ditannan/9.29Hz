@@ -62,7 +62,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 ## Part4 {#shanghai-20240519-part4}
 [🎥【谢谢上海，谢谢你VCR】](#thank-you-vcr)
 
-🎵【听我说+望】
+[🎵【听我说】](#listen-to-me) [🎵【望】](#hope)
 
 [🎵【璀璨冒险人】](#adventurers)
 
@@ -72,9 +72,9 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 
 🎵【可它爱着这个世界】
 
-🎵【不想睡】
+[🎵【不想睡】](#keep-playing)
 
-🎵【我以渺小爱你】
+[🎵【我以渺小爱你】](#love-you)
 
 
 ## Part5 {#shanghai-20240519-part5}
