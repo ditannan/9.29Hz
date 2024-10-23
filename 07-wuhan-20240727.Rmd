@@ -47,13 +47,13 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 
 ## Part3 {#wuhan-20240727-part3}
 
-🎵【欢颜】
+[🎵【欢颜】](#happy-face)
 
 [🎵【小美满】](#happy-ending)
 
 [🎵【花开忘忧】](#no-worries) 
 
-🎵【My Only + Rubia】
+[🎵【My Only】](#my-only) [🎵【Rubia】](rubia.html)
 
 🎵【邓丽君歌单组曲】
 
@@ -70,7 +70,7 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 
 【点歌环节】
 
-🎵【三餐四季】
+[🎵【三餐四季】](#three-meals-a-day)  
 
 [🎵【不想睡】](#keep-playing)
 
@@ -81,7 +81,6 @@ knitr::include_graphics(rep("img/playlists/playlists-wuhan-20240727.png"))
 [🎵【起风了】](#the-wind-rises)
 
 [🎵【大鱼】](#big-fish)
-
 
 [🎵【少管我】](#watch-ur-manners)
 

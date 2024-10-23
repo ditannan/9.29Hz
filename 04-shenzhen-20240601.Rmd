@@ -49,7 +49,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 
 ## Part3 {#shenzhen-20240601-part3}
 
-🎵【My Only + Rubia】
+[🎵【My Only】](#my-only) [🎵【Rubia】](rubia.html)
 
 [🎵【小美满】](#happy-ending)
 
@@ -68,7 +68,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shenzhen-20240601.png"))
 
 【点歌环节】
 
-🎵【时结】
+[🎵【时结】](#shijie)
 
 [🎵【不想睡】](#keep-playing)
 

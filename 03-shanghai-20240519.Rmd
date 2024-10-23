@@ -55,7 +55,7 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 
 [🎵【花开忘忧】](#no-worries) 
 
-🎵【My Only + Rubia】
+[🎵【My Only】](#my-only) [🎵【Rubia】](rubia.html)
 
 🎵【邓丽君歌单组曲】
 
@@ -68,9 +68,9 @@ knitr::include_graphics(rep("img/playlists/playlists-shanghai-20240519.png"))
 
 【点歌环节】
 
-🎵【夏日友晴天】
+[🎵【夏日友晴天】](#sunny-day-in-summer)
 
-🎵【可它爱着这个世界】
+[🎵【可它爱着这个世界】](#love-the-world)
 
 [🎵【不想睡】](#keep-playing)
 

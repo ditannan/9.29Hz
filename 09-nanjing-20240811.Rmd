@@ -55,11 +55,11 @@ knitr::include_graphics(rep("img/playlists/playlists-nanjing-20240811.png"))
 
 [🎵【花开忘忧】](#no-worries) 
 
-🎵【My Only + Rubia】
+[🎵【My Only】](#my-only) [🎵【Rubia】](rubia.html)
 
 🎵【邓丽君歌单组曲】
 
-🎵【月亮代表我的心】
+[🎵【月亮代表我的心】](#my-heart-is-moon)  
 
 ## Part4 {#nanjing-20240811-part4}
 [🎥【谢谢南京，谢谢你VCR】](#thank-you-vcr)
@@ -74,7 +74,7 @@ knitr::include_graphics(rep("img/playlists/playlists-nanjing-20240811.png"))
 
 【点歌环节】
 
-🎵【海藏】
+[🎵【跳舞的月光】](#dancing-moonshine)
 
 [🎵【不想睡】](#keep-playing)
 
