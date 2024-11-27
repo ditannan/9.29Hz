@@ -1,0 +1,124 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.infobox {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  border: 2px solid #224294;
+  border-radius: 10px;
+  background: #f5f5f5 5px center/3em no-repeat;
+}
+
+.pang-mi {
+  background-image: url("img/mi/pang-mi.png");
+}
+
+.shou-mi {
+  background-image: url("img/mi/shou-mi.png");
+}
+
+.panda-mi {
+  background-image: url("img/mi/panda-mi.png");
+}
+
+.panda-pang-mi {
+  background-image: url("img/mi/panda-pang-mi.png");
+}
+
+.siwawa-mi {
+  background-image: url("img/mi/siwawa-mi.png");
+}
+
+.birthday-mi {
+  background-image: url("img/mi/birthday-mi.png");
+}
+
+.yu-mi {
+  background-image: url("img/mi/yu-mi.png");
+}
+
+.guantou-mi {
+  background-image: url("img/mi/guantou-mi.png");
+}
+
+.huoguo-mi {
+  background-image: url("img/mi/huoguo-mi.png");
+}
+
+.lanche-mi {
+  background-image: url("img/mi/lanche-mi.png");
+}
+
+.kaoya-mi {
+  background-image: url("img/mi/kaoya-mi.png");
+}
+
+.student-mi {
+  background-image: url("img/mi/student-mi.png");
+}
+
+.tanping-mi {
+  background-image: url("img/mi/tanping-mi.png");
+}
+
+.yuanlin-mi {
+  background-image: url("img/mi/yuanlin-mi.png");
+}
+
+.mijie {
+  background-image: url("img/mijie.png");
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.author-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.author-text {
+    flex: 1;
+    margin-right: 20px; /* Adjust as needed for spacing */
+}
+
+.author-image {
+    flex: 1;
+    text-align: right; /* Align the image to the right */
+    max-width: 30%; /* Set the maximum width of the image */
+}
+
+/*--- LOGO ---*/
+
+.toc-logo {
+  width: 300px;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.toc-logo img {
+  max-width: 100%;
+  margin-bottom: 5px;
+}
+
+.summary > li:first-child {
+  height: auto; 
+}

@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+_bookdown_files/
+docs/*.pdf
+.gitignore
+*.pdf
+*.Rmd
+*.yml
+
