@@ -54,15 +54,15 @@ pre code {
 }
 
 .huoguo-mi {
-  background-image: url("img/mi/huoguo-mi.png");
+  background-image: url("img/mi/huoguo-mi2.png");
 }
 
 .lanche-mi {
-  background-image: url("img/mi/lanche-mi.png");
+  background-image: url("img/mi/lanche-mi3.png");
 }
 
 .kaoya-mi {
-  background-image: url("img/mi/kaoya-mi.png");
+  background-image: url("img/mi/kaoya-mi2.png");
 }
 
 .student-mi {
@@ -75,6 +75,10 @@ pre code {
 
 .yuanlin-mi {
   background-image: url("img/mi/yuanlin-mi.png");
+}
+
+.shusheng-mi {
+  background-image: url("img/mi/shusheng-mi.png");
 }
 
 .mijie {
