@@ -207,4 +207,5 @@ thank-you-vcr
 related-929hz
 review-vlog
 official-video
+acknowledgements-list
 appendix-song-lyric
