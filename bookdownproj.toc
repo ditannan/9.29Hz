@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {3.1}Part1}{38}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Part2}{38}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Part3}{39}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Part4}{40}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Part4}{41}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Part5}{43}{section.3.5}%
 \contentsline {chapter}{\numberline {第四章\hspace {.3em}}2024.06.15成都场}{47}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Part1}{48}{section.4.1}%
@@ -75,7 +75,7 @@
 \contentsline {section}{\numberline {13.2}Part2}{132}{section.13.2}%
 \contentsline {section}{\numberline {13.3}Part3}{134}{section.13.3}%
 \contentsline {section}{\numberline {13.4}Part4}{135}{section.13.4}%
-\contentsline {section}{\numberline {13.5}Part5}{137}{section.13.5}%
+\contentsline {section}{\numberline {13.5}Part5}{138}{section.13.5}%
 \contentsline {chapter}{\numberline {第十四章\hspace {.3em}}2024.10.06重庆场}{141}{chapter.14}%
 \contentsline {section}{\numberline {14.1}Part1}{142}{section.14.1}%
 \contentsline {section}{\numberline {14.2}Part2}{142}{section.14.2}%
@@ -93,7 +93,7 @@
 \contentsline {section}{\numberline {16.2}Part2}{161}{section.16.2}%
 \contentsline {section}{\numberline {16.3}Part3}{162}{section.16.3}%
 \contentsline {section}{\numberline {16.4}Part4}{163}{section.16.4}%
-\contentsline {section}{\numberline {16.5}Part5}{165}{section.16.5}%
+\contentsline {section}{\numberline {16.5}Part5}{166}{section.16.5}%
 \contentsline {chapter}{\numberline {第十七章\hspace {.3em}}2024.11.10苏州场}{169}{chapter.17}%
 \contentsline {section}{\numberline {17.1}Part1}{170}{section.17.1}%
 \contentsline {section}{\numberline {17.2}Part2}{170}{section.17.2}%
@@ -130,4 +130,5 @@
 \contentsline {chapter}{\numberline {附录 E\hspace {.3em}}9.29Hz巡回演唱会相关资源}{231}{appendix.E}%
 \contentsline {section}{\numberline {E.1}9.29Hz巡演各场回顾vlog}{231}{section.E.1}%
 \contentsline {section}{\numberline {E.2}9.29Hz巡演官方视频}{233}{section.E.2}%
-\contentsline {chapter}{\numberline {附录 F\hspace {.3em}}9.29Hz巡回演唱会歌曲歌词}{235}{appendix.F}%
+\contentsline {chapter}{\numberline {附录 F\hspace {.3em}}9.29Hz巡回演唱会致谢名单}{235}{appendix.F}%
+\contentsline {chapter}{\numberline {附录 G\hspace {.3em}}9.29Hz巡回演唱会歌曲歌词}{237}{appendix.G}%
