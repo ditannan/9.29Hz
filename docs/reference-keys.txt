@@ -7,11 +7,9 @@ fig:unnamed-chunk-40
 fig:unnamed-chunk-41
 fig:unnamed-chunk-44
 fig:unnamed-chunk-45
-fig:chengdu-magic
 fig:unnamed-chunk-46
 fig:unnamed-chunk-49
 fig:unnamed-chunk-50
-fig:guiyang-001
 fig:unnamed-chunk-51
 fig:unnamed-chunk-54
 fig:unnamed-chunk-55
@@ -43,7 +41,6 @@ fig:unnamed-chunk-93
 tab:unnamed-chunk-94
 fig:unnamed-chunk-96
 fig:unnamed-chunk-97
-fig:chongqing2-magic
 tab:unnamed-chunk-98
 fig:unnamed-chunk-99
 fig:unnamed-chunk-102
