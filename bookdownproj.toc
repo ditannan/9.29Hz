@@ -2,133 +2,133 @@
 \contentsline {section}{\numberline {1.1}Part1}{22}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Part2}{22}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Part3}{23}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Part4}{25}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Part5}{27}{section.1.5}%
-\contentsline {chapter}{\numberline {第二章\hspace {.3em}}2024.05.19上海场}{29}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Part1}{30}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Part2}{30}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Part3}{31}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Part4}{32}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Part5}{35}{section.2.5}%
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}2024.06.01深圳场}{37}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Part1}{38}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Part2}{38}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Part3}{39}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Part4}{41}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Part5}{44}{section.3.5}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}2024.06.15成都场}{47}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Part1}{48}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Part2}{48}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Part3}{50}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Part4}{51}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Part5}{53}{section.4.5}%
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}2024.07.13贵阳场}{55}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Part1}{56}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Part2}{56}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Part3}{59}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Part4}{60}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Part5}{62}{section.5.5}%
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}2024.07.27武汉场}{65}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Part1}{66}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Part2}{67}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Part3}{68}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Part4}{69}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Part5}{72}{section.6.5}%
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}2024.08.10南京场}{75}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Part1}{76}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Part2}{76}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Part3}{77}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Part4}{78}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Part5}{81}{section.7.5}%
-\contentsline {chapter}{\numberline {第八章\hspace {.3em}}2024.08.11南京场}{83}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Part1}{84}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Part2}{84}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Part3}{85}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Part4}{87}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Part5}{91}{section.8.5}%
-\contentsline {chapter}{\numberline {第九章\hspace {.3em}}2024.08.23杭州场}{93}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Part1}{94}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Part2}{94}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Part3}{95}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Part4}{97}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Part5}{99}{section.9.5}%
-\contentsline {chapter}{\numberline {第十章\hspace {.3em}}2024.08.24杭州场}{101}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Part1}{102}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Part2}{102}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Part3}{104}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Part4}{105}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Part5}{108}{section.10.5}%
-\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}2024.09.07沈阳场}{111}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Part1}{112}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Part2}{112}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Part3}{113}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Part4}{114}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Part5}{118}{section.11.5}%
-\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}2024.09.21北京场}{121}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Part1}{122}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Part2}{122}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Part3}{123}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Part4}{124}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Part5}{128}{section.12.5}%
-\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}2024.09.22北京场}{131}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Part1}{132}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Part2}{132}{section.13.2}%
-\contentsline {section}{\numberline {13.3}Part3}{134}{section.13.3}%
-\contentsline {section}{\numberline {13.4}Part4}{135}{section.13.4}%
-\contentsline {section}{\numberline {13.5}Part5}{138}{section.13.5}%
-\contentsline {chapter}{\numberline {第十四章\hspace {.3em}}2024.10.06重庆场}{141}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Part1}{142}{section.14.1}%
-\contentsline {section}{\numberline {14.2}Part2}{142}{section.14.2}%
-\contentsline {section}{\numberline {14.3}Part3}{144}{section.14.3}%
-\contentsline {section}{\numberline {14.4}Part4}{145}{section.14.4}%
-\contentsline {section}{\numberline {14.5}Part5}{147}{section.14.5}%
-\contentsline {chapter}{\numberline {第十五章\hspace {.3em}}2024.10.07重庆场}{149}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Part1}{150}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Part2}{150}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Part3}{152}{section.15.3}%
-\contentsline {section}{\numberline {15.4}Part4}{153}{section.15.4}%
-\contentsline {section}{\numberline {15.5}Part5}{156}{section.15.5}%
-\contentsline {chapter}{\numberline {第十六章\hspace {.3em}}2024.11.09苏州场}{159}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Part1}{160}{section.16.1}%
-\contentsline {section}{\numberline {16.2}Part2}{161}{section.16.2}%
-\contentsline {section}{\numberline {16.3}Part3}{162}{section.16.3}%
-\contentsline {section}{\numberline {16.4}Part4}{163}{section.16.4}%
-\contentsline {section}{\numberline {16.5}Part5}{166}{section.16.5}%
-\contentsline {chapter}{\numberline {第十七章\hspace {.3em}}2024.11.10苏州场}{169}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Part1}{170}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Part2}{170}{section.17.2}%
-\contentsline {section}{\numberline {17.3}Part3}{172}{section.17.3}%
-\contentsline {section}{\numberline {17.4}Part4}{173}{section.17.4}%
-\contentsline {section}{\numberline {17.5}Part5}{177}{section.17.5}%
-\contentsline {chapter}{\numberline {第十八章\hspace {.3em}}2024.11.23南昌场}{181}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Part1}{182}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Part2}{182}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Part3}{185}{section.18.3}%
-\contentsline {section}{\numberline {18.4}Part4}{186}{section.18.4}%
-\contentsline {section}{\numberline {18.5}Part5}{190}{section.18.5}%
-\contentsline {chapter}{\numberline {第十九章\hspace {.3em}}2024.12.06南宁场}{193}{chapter.19}%
-\contentsline {section}{\numberline {19.1}Part1}{194}{section.19.1}%
-\contentsline {section}{\numberline {19.2}Part2}{194}{section.19.2}%
-\contentsline {section}{\numberline {19.3}Part3}{197}{section.19.3}%
-\contentsline {section}{\numberline {19.4}Part4}{200}{section.19.4}%
-\contentsline {section}{\numberline {19.5}Part5}{203}{section.19.5}%
-\contentsline {chapter}{\numberline {第二十章\hspace {.3em}}2024.12.07南宁场}{205}{chapter.20}%
-\contentsline {section}{\numberline {20.1}Part1}{206}{section.20.1}%
-\contentsline {section}{\numberline {20.2}Part2}{206}{section.20.2}%
-\contentsline {section}{\numberline {20.3}Part3}{208}{section.20.3}%
-\contentsline {section}{\numberline {20.4}Part4}{210}{section.20.4}%
-\contentsline {section}{\numberline {20.5}Part5}{215}{section.20.5}%
-\contentsline {chapter}{附录}{217}{figure.20.6}%
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}9.29Hz巡回演唱会歌单}{221}{appendix.A}%
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}9.29Hz巡回演唱会彩带和伴手礼}{223}{appendix.B}%
-\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}十年来信}{225}{appendix.C}%
-\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}9.29Hz巡回演唱会VCR文字版}{227}{appendix.D}%
-\contentsline {section}{\numberline {D.1}开场VCR}{227}{section.D.1}%
-\contentsline {section}{\numberline {D.2}反深代词VCR}{228}{section.D.2}%
-\contentsline {section}{\numberline {D.3}客服大门VCR}{229}{section.D.3}%
-\contentsline {section}{\numberline {D.4}谢谢你VCR}{230}{section.D.4}%
-\contentsline {chapter}{\numberline {附录 E\hspace {.3em}}9.29Hz巡回演唱会相关资源}{231}{appendix.E}%
-\contentsline {section}{\numberline {E.1}9.29Hz巡演各场回顾vlog}{231}{section.E.1}%
-\contentsline {section}{\numberline {E.2}9.29Hz巡演官方视频}{233}{section.E.2}%
-\contentsline {chapter}{\numberline {附录 F\hspace {.3em}}9.29Hz巡回演唱会致谢名单}{235}{appendix.F}%
-\contentsline {chapter}{\numberline {附录 G\hspace {.3em}}9.29Hz巡回演唱会歌曲歌词}{237}{appendix.G}%
+\contentsline {section}{\numberline {1.4}Part4}{27}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Part5}{29}{section.1.5}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}2024.05.19上海场}{31}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Part1}{32}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Part2}{32}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Part3}{33}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Part4}{34}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Part5}{37}{section.2.5}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}2024.06.01深圳场}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Part1}{40}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Part2}{40}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Part3}{41}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Part4}{43}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Part5}{46}{section.3.5}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}2024.06.15成都场}{49}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Part1}{50}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Part2}{50}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Part3}{52}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Part4}{53}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Part5}{56}{section.4.5}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}2024.07.13贵阳场}{59}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Part1}{60}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Part2}{60}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Part3}{63}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Part4}{64}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Part5}{66}{section.5.5}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}2024.07.27武汉场}{69}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Part1}{70}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Part2}{71}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Part3}{72}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Part4}{73}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Part5}{76}{section.6.5}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}2024.08.10南京场}{79}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Part1}{80}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Part2}{80}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Part3}{81}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Part4}{83}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Part5}{85}{section.7.5}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}2024.08.11南京场}{87}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Part1}{88}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Part2}{88}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Part3}{89}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Part4}{91}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Part5}{95}{section.8.5}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}2024.08.23杭州场}{97}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Part1}{98}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Part2}{98}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Part3}{99}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Part4}{100}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Part5}{104}{section.9.5}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}2024.08.24杭州场}{105}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Part1}{106}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Part2}{106}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Part3}{108}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Part4}{109}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Part5}{112}{section.10.5}%
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}2024.09.07沈阳场}{115}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Part1}{116}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Part2}{116}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Part3}{117}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Part4}{119}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Part5}{122}{section.11.5}%
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}2024.09.21北京场}{125}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Part1}{126}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Part2}{126}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Part3}{127}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Part4}{129}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Part5}{133}{section.12.5}%
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}2024.09.22北京场}{135}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Part1}{136}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Part2}{136}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Part3}{138}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Part4}{139}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Part5}{143}{section.13.5}%
+\contentsline {chapter}{\numberline {第十四章\hspace {.3em}}2024.10.06重庆场}{145}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Part1}{146}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Part2}{146}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Part3}{148}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Part4}{149}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Part5}{152}{section.14.5}%
+\contentsline {chapter}{\numberline {第十五章\hspace {.3em}}2024.10.07重庆场}{153}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Part1}{154}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Part2}{154}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Part3}{157}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Part4}{158}{section.15.4}%
+\contentsline {section}{\numberline {15.5}Part5}{161}{section.15.5}%
+\contentsline {chapter}{\numberline {第十六章\hspace {.3em}}2024.11.09苏州场}{163}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Part1}{164}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Part2}{164}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Part3}{166}{section.16.3}%
+\contentsline {section}{\numberline {16.4}Part4}{167}{section.16.4}%
+\contentsline {section}{\numberline {16.5}Part5}{173}{section.16.5}%
+\contentsline {chapter}{\numberline {第十七章\hspace {.3em}}2024.11.10苏州场}{175}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Part1}{176}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Part2}{176}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Part3}{178}{section.17.3}%
+\contentsline {section}{\numberline {17.4}Part4}{179}{section.17.4}%
+\contentsline {section}{\numberline {17.5}Part5}{183}{section.17.5}%
+\contentsline {chapter}{\numberline {第十八章\hspace {.3em}}2024.11.23南昌场}{187}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Part1}{188}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Part2}{188}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Part3}{191}{section.18.3}%
+\contentsline {section}{\numberline {18.4}Part4}{192}{section.18.4}%
+\contentsline {section}{\numberline {18.5}Part5}{196}{section.18.5}%
+\contentsline {chapter}{\numberline {第十九章\hspace {.3em}}2024.12.06南宁场}{199}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Part1}{201}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Part2}{201}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Part3}{204}{section.19.3}%
+\contentsline {section}{\numberline {19.4}Part4}{207}{section.19.4}%
+\contentsline {section}{\numberline {19.5}Part5}{210}{section.19.5}%
+\contentsline {chapter}{\numberline {第二十章\hspace {.3em}}2024.12.07南宁场}{213}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Part1}{214}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Part2}{214}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Part3}{216}{section.20.3}%
+\contentsline {section}{\numberline {20.4}Part4}{218}{section.20.4}%
+\contentsline {section}{\numberline {20.5}Part5}{225}{section.20.5}%
+\contentsline {chapter}{附录}{226}{figure.20.7}%
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}9.29Hz巡回演唱会歌单}{229}{appendix.A}%
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}9.29Hz巡回演唱会彩带和伴手礼}{231}{appendix.B}%
+\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}十年来信}{233}{appendix.C}%
+\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}9.29Hz巡回演唱会VCR文字版}{235}{appendix.D}%
+\contentsline {section}{\numberline {D.1}开场VCR}{235}{section.D.1}%
+\contentsline {section}{\numberline {D.2}反深代词VCR}{236}{section.D.2}%
+\contentsline {section}{\numberline {D.3}客服大门VCR}{237}{section.D.3}%
+\contentsline {section}{\numberline {D.4}谢谢你VCR}{238}{section.D.4}%
+\contentsline {chapter}{\numberline {附录 E\hspace {.3em}}9.29Hz巡回演唱会相关资源}{239}{appendix.E}%
+\contentsline {section}{\numberline {E.1}9.29Hz巡演各场回顾vlog}{239}{section.E.1}%
+\contentsline {section}{\numberline {E.2}9.29Hz巡演官方视频}{241}{section.E.2}%
+\contentsline {chapter}{\numberline {附录 F\hspace {.3em}}9.29Hz巡回演唱会致谢名单}{243}{appendix.F}%
+\contentsline {chapter}{\numberline {附录 G\hspace {.3em}}9.29Hz巡回演唱会歌曲歌词}{245}{appendix.G}%
