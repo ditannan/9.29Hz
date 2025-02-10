@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  10 FEB 2025 00:32
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  11 FEB 2025 00:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1040,6 +1040,8 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/shanghai20240518/003.jpg Graphic file (type bmp)
+<img/shanghai20240518/003.jpg>
 
 
 [29]
@@ -1292,6 +1294,8 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/chengdu20240615/004.jpg Graphic file (type bmp)
+<img/chengdu20240615/004.jpg>
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1302,10 +1306,17 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 
 
 [51]
+
+[52]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/chengdu20240615/003.jpg Graphic file (type bmp)
+<img/chengdu20240615/003.jpg>
+
+LaTeX Warning: Float too large for page by 27.5233pt on input line 908.
+
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1317,7 +1328,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[52]
+[53]
+
+[54]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1336,14 +1349,11 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[53]
+[55]
 File: img/chengdu20240615/001.jpg Graphic file (type bmp)
 <img/chengdu20240615/001.jpg>
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[54]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1353,7 +1363,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[55]
+[56]
+
+[57]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1364,23 +1376,24 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[58]
 File: img/chengdu20240615/002.jpg Graphic file (type bmp)
 <img/chengdu20240615/002.jpg>
 File: img/weibo/chengdu-20240615.png Graphic file (type bmp)
 <img/weibo/chengdu-20240615.png>
 
 
-[56]
+[59]
 
-[57]
-
-[58]
+[60]
 第五章
 File: img/playlists/playlists-guiyang-20240713.png Graphic file (type bmp)
 <img/playlists/playlists-guiyang-20240713.png>
 
 
-[59
+[61
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1401,26 +1414,26 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[60]
-
-[61]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [62]
+
+[63]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[64]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1439,40 +1452,40 @@ File: img/guiyang20240713/thank-guiyang.jpg Graphic file (type bmp)
 <img/guiyang20240713/thank-guiyang.jpg>
 
 
-[63]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[64]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [65]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [66]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[67]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[68]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1480,15 +1493,15 @@ File: img/weibo/guiyang-20240714.png Graphic file (type bmp)
 <img/weibo/guiyang-20240714.png>
 
 
-[67]
+[69]
 
-[68]
+[70]
 第六章
 File: img/playlists/playlists-wuhan-20240727.png Graphic file (type bmp)
 <img/playlists/playlists-wuhan-20240727.png>
 
 
-[69
+[71
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1507,38 +1520,38 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[70]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[71]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [72]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[73]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[74]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1558,7 +1571,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[73]
+[75]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1578,27 +1591,27 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[74]
-
-[75]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [76]
+
+[77]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[78]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1608,15 +1621,15 @@ File: img/weibo/wuhan-20240727.png Graphic file (type bmp)
 <img/weibo/wuhan-20240727.png>
 
 
-[77]
+[79]
 
-[78]
+[80]
 第七章
 File: img/playlists/playlists-nanjing-20240810.png Graphic file (type bmp)
 <img/playlists/playlists-nanjing-20240810.png>
 
 
-[79
+[81
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1636,32 +1649,32 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[80]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[81]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [82]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[83]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[84]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanjing20240810/thank-nanjing.jpg Graphic file (type bmp)
 <img/nanjing20240810/thank-nanjing.jpg>
@@ -1682,42 +1695,42 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[83]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[84]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [85]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [86]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[87]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[88]
 第八章
 File: img/playlists/playlists-nanjing-20240811.png Graphic file (type bmp)
 <img/playlists/playlists-nanjing-20240811.png>
 
 
-[87
+[89
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1736,7 +1749,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[88]
+[90]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1751,7 +1764,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[89]
+[91]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1772,7 +1785,7 @@ File: img/nanjing20240811/thank-nanjing.jpg Graphic file (type bmp)
 <img/nanjing20240811/thank-nanjing.jpg>
 
 
-[90]
+[92]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1785,30 +1798,30 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[91]
-
-[92]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [93]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
 
 [94]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[95]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[96]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1819,15 +1832,15 @@ File: img/weibo/nanjing-20240811.png Graphic file (type bmp)
 <img/weibo/nanjing-20240811.png>
 
 
-[95]
+[97]
 
-[96]
+[98]
 第九章
 File: img/playlists/playlists-hangzhou-20240823.png Graphic file (type bmp)
 <img/playlists/playlists-hangzhou-20240823.png>
 
 
-[97
+[99
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1846,7 +1859,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[98]
+[100]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1862,7 +1875,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[99]
+[101]
 File: img/hangzhou20240823/001.jpg Graphic file (type bmp)
 <img/hangzhou20240823/001.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1881,32 +1894,14 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[100]
-
-[101]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [102]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
 
 [103]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1914,12 +1909,30 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 
 
 [104]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[105]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[106]
 第十章
 File: img/playlists/playlists-hangzhou-20240824.png Graphic file (type bmp)
 <img/playlists/playlists-hangzhou-20240824.png>
 
 
-[105
+[107
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1940,33 +1953,33 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[106]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[107]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [108]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[109]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[110]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1985,36 +1998,36 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[109]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[110]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [111]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[112]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[113]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2024,7 +2037,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[112]
+[114]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/hangzhou20240824/001.jpg Graphic file (type bmp)
 <img/hangzhou20240824/001.jpg>
@@ -2032,15 +2045,15 @@ File: img/weibo/hangzhou-20240824.png Graphic file (type bmp)
 <img/weibo/hangzhou-20240824.png>
 
 
-[113]
+[115]
 
-[114]
+[116]
 第十一章
 File: img/playlists/playlists-shenyang-20240907.png Graphic file (type bmp)
 <img/playlists/playlists-shenyang-20240907.png>
 
 
-[115
+[117
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2064,38 +2077,38 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[116]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[117]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [118]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[119]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[120]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/shenyang20240907/thank-shenyang.jpg Graphic file (type bmp)
 <img/shenyang20240907/thank-shenyang.jpg>
@@ -2112,37 +2125,37 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[119]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[120]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [121]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [122]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[123]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[124]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2150,15 +2163,15 @@ File: img/weibo/shenyang-20240908.png Graphic file (type bmp)
 <img/weibo/shenyang-20240908.png>
 
 
-[123]
+[125]
 
-[124]
+[126]
 第十二章
 File: img/playlists/playlists-beijing-20240921.png Graphic file (type bmp)
 <img/playlists/playlists-beijing-20240921.png>
 
 
-[125
+[127
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2180,36 +2193,36 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[126]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[127]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [128]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[129]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[130]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/beijing20240921/thank-beijing.jpg Graphic file (type bmp)
 <img/beijing20240921/thank-beijing.jpg>
@@ -2224,13 +2237,13 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[129]
+[131]
 File: img/beijing20240921/001.jpg Graphic file (type bmp)
 <img/beijing20240921/001.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[130]
+[132]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2239,7 +2252,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[131]
+[133]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2257,7 +2270,7 @@ Underfull \vbox (badness 1997) has occurred while \output is active []
 
 
 
-[132]
+[134]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/beijing20240921/big-fish.jpg Graphic file (type bmp)
 <img/beijing20240921/big-fish.jpg>
@@ -2265,21 +2278,23 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[133]
+[135]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/beijing20240921/002.jpg Graphic file (type bmp)
+<img/beijing20240921/002.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[134]
+[136]
 第十三章
 File: img/playlists/playlists-beijing-20240922.png Graphic file (type bmp)
 <img/playlists/playlists-beijing-20240922.png>
 
 
-[135
+[137
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2295,13 +2310,17 @@ Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/beijing20240922/002.jpg Graphic file (type bmp)
+<img/beijing20240922/002.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[136]
+[138]
+
+[139]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2316,7 +2335,7 @@ Underfull \vbox (badness 3780) has occurred while \output is active []
 
 
 
-[137]
+[140]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2333,7 +2352,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[138]
+[141]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/beijing20240921/thank-beijing.jpg Graphic file (type bmp)
 <img/beijing20240921/thank-beijing.jpg>
@@ -2345,52 +2364,57 @@ File: img/beijing20240922/001.jpg Graphic file (type bmp)
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[139]
-
-[140]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[141]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [142]
+
+[143]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[144]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[145]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/beijing20240922/big-fish.jpg Graphic file (type bmp)
 <img/beijing20240922/big-fish.jpg>
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[146]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/beijing20240922/003.jpg Graphic file (type bmp)
+<img/beijing20240922/003.jpg>
 File: img/weibo/beijing-20240923.png Graphic file (type bmp)
 <img/weibo/beijing-20240923.png>
 
 
-[143]
+[147]
 
-[144]
+[148]
 第十四章
 File: img/playlists/playlists-chongqing-20241006.png Graphic file (type bmp)
 <img/playlists/playlists-chongqing-20241006.png>
 
 
-[145
+[149
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2408,7 +2432,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[146]
+[150]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2420,7 +2444,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[147]
+[151]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2443,51 +2467,51 @@ Underfull \vbox (badness 2698) has occurred while \output is active []
 
 
 
-[148]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[149]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[150]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[151]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [152]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[153]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[154]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 2409) has occurred while \output is active []
+
+
+
+[155]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[156]
 第十五章
 File: img/playlists/playlists-chongqing-20241007.png Graphic file (type bmp)
 <img/playlists/playlists-chongqing-20241007.png>
 
 
-[153
+[157
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2511,9 +2535,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[154]
+[158]
 
-[155]
+[159]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2528,55 +2552,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[156]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[157]
-Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
-File: img/chongqing20241007/thank-chongqing.jpg Graphic file (type bmp)
-<img/chongqing20241007/thank-chongqing.jpg>
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[158]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[159]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [160]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2585,19 +2560,69 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[161]
+Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/chongqing20241007/thank-chongqing.jpg Graphic file (type bmp)
+<img/chongqing20241007/thank-chongqing.jpg>
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[162]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[163]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[164]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[165]
 File: img/weibo/chongqing-20241008.png Graphic file (type bmp)
 <img/weibo/chongqing-20241008.png>
 
 
-[161]
-
-[162]
+[166]
 第十六章
 File: img/playlists/playlists-suzhou-20241109.png Graphic file (type bmp)
 <img/playlists/playlists-suzhou-20241109.png>
 
 
-[163
+[167
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2621,9 +2646,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[164]
+[168]
 
-[165]
+[169]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2638,7 +2663,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[166]
+[170]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2651,58 +2676,23 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[171]
+
+[172]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/suzhou20241109/thank-suzhou.jpg Graphic file (type bmp)
 <img/suzhou20241109/thank-suzhou.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[167]
-
-[168]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/suzhou20241109/003.jpg Graphic file (type bmp)
+<img/suzhou20241109/003.jpg>
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[169]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[170]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-File: img/suzhou20241109/002.jpg Graphic file (type bmp)
-<img/suzhou20241109/002.jpg>
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[171]
-
-[172]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2710,15 +2700,52 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 
 [173]
 
-[174
+[174]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
-]
+
+[175]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[176]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/suzhou20241109/002.jpg Graphic file (type bmp)
+<img/suzhou20241109/002.jpg>
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[177]
+
+[178]
 第十七章
 File: img/playlists/playlists-suzhou-20241110.png Graphic file (type bmp)
 <img/playlists/playlists-suzhou-20241110.png>
 
 
-[175]
+[179
+
+]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2726,7 +2753,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 File: img/suzhou20241110/001.jpg Graphic file (type bmp)
 <img/suzhou20241110/001.jpg>
 
-LaTeX Warning: Float too large for page by 28.57205pt on input line 3056.
+LaTeX Warning: Float too large for page by 28.57205pt on input line 3121.
 
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2743,9 +2770,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[176]
+[180]
 
-[177]
+[181]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2760,7 +2787,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[178]
+[182]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2779,7 +2806,7 @@ File: img/suzhou20241110/thank-suzhou.jpg Graphic file (type bmp)
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[179]
+[183]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2791,59 +2818,59 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[180]
+[184]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[185]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[181]
+[186]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[182]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+[187]
 File: img/suzhou20241110/002.jpg Graphic file (type bmp)
 <img/suzhou20241110/002.jpg>
-
-
-[183]
 File: img/suzhou20241110/003.jpg Graphic file (type bmp)
 <img/suzhou20241110/003.jpg>
 File: img/weibo/suzhou-20241110.png Graphic file (type bmp)
 <img/weibo/suzhou-20241110.png>
 
 
-[184]
+[188]
 
-[185]
+[189]
 
-[186]
+[190]
 第十八章
 File: img/playlists/playlists-nanchang-20241123.png Graphic file (type bmp)
 <img/playlists/playlists-nanchang-20241123.png>
 
 
-[187
+[191
 
 ]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2871,9 +2898,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[188]
+[192]
 
-[189]
+[193]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2890,26 +2917,26 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[190]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[191]
+[194]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[195]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanchang-20241123/thank-nanchang.jpg Graphic file (type bmp)
 <img/nanchang-20241123/thank-nanchang.jpg>
@@ -2925,39 +2952,39 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[192]
-
-[193]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[194]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[195]
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
 [196]
+
+[197]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[198]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[199]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[200]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2965,19 +2992,17 @@ File: img/weibo/nanchang-20241123.png Graphic file (type bmp)
 <img/weibo/nanchang-20241123.png>
 
 
-[197]
+[201]
 
-[198]
+[202]
 第十九章
 File: img/playlists/playlists-nanning-20241206.png Graphic file (type bmp)
 <img/playlists/playlists-nanning-20241206.png>
 
 
-[199
+[203
 
 ]
-
-[200]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3001,9 +3026,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[201]
+[204]
 
-[202]
+[205]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3021,74 +3046,36 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[203]
+[206]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanning20241206/003.jpg Graphic file (type bmp)
 <img/nanning20241206/003.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[207]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanning20241206/002.jpg Graphic file (type bmp)
 <img/nanning20241206/002.jpg>
-
-
-[204]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[205]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[206]
-Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
-File: img/nanning20241206/thank-nanning.jpg Graphic file (type bmp)
-<img/nanning20241206/thank-nanning.jpg>
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-
-[207]
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [208]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3096,11 +3083,51 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 
 
 [209]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/nanning20241206/thank-nanning.jpg Graphic file (type bmp)
+<img/nanning20241206/thank-nanning.jpg>
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[210]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[211]
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[212]
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/nanning20241206/005.jpg Graphic file (type bmp)
+<img/nanning20241206/005.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanning20241206/004.jpg Graphic file (type bmp)
@@ -3111,23 +3138,28 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[210]
+[213]
+
+[214]
+Underfull \vbox (badness 1838) has occurred while \output is active []
+
+
+
+[215]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[211]
-
-[212
-
-]
+[216]
 第二十章
 File: img/playlists/playlists-nanning-20241207.png Graphic file (type bmp)
 <img/playlists/playlists-nanning-20241207.png>
 
 
-[213]
+[217
+
+]
 Missing character: There is no 🎥 (U+1F3A5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3147,7 +3179,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[214]
+[218]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3163,7 +3195,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[215]
+[219]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3177,7 +3209,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[216]
+[220]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanning20241207/001.jpg Graphic file (type bmp)
@@ -3188,7 +3220,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[217]
+[221]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3206,9 +3238,9 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[218]
+[222]
 
-[219]
+[223]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3224,16 +3256,16 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[220]
+[224]
 
-[221]
+[225]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[222]
+[226]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3241,7 +3273,7 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[223]
+[227]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3259,7 +3291,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[224]
+[228]
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/nanning20241207/003.jpg Graphic file (type bmp)
@@ -3268,7 +3300,7 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
-[225]
+[229]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3278,21 +3310,21 @@ File: img/weibo/nanning-20241207-2.png Graphic file (type bmp)
 <img/weibo/nanning-20241207-2.png>
 
 
-[226]
+[230]
 
-[227]
+[231]
 
-[228]
+[232]
 附录 A
 File: img/playlists/playlists.png Graphic file (type bmp)
 <img/playlists/playlists.png>
 
 
-[229
+[233
 
 ]
 
-[230
+[234
 
 ]
 附录 B
@@ -3300,9 +3332,9 @@ File: img/ribbons.png Graphic file (type bmp)
 <img/ribbons.png>
 
 
-[231]
+[235]
 
-[232
+[236
 
 ]
 附录 C
@@ -3310,144 +3342,132 @@ File: img/letter-cover.jpg Graphic file (type bmp)
 <img/letter-cover.jpg>
 
 
-[233]
+[237]
 File: img/letter.jpg Graphic file (type bmp)
 <img/letter.jpg>
 
 
-[234]
-附录 D
-
-
-[235
-
-]
-
-[236]
-
-[237]
-
 [238]
-附录 E
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 4154--4156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4156--4158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4158--4160
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4174--4176
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4178--4180
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4182--4184
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4186--4188
-
- []
-
+附录 D
 
 
 [239
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4190--4192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4194--4196
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4198--4200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4202--4204
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4206--4208
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4210--4212
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4214--4216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4218--4220
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4220--4222
-
- []
-
-
 
 [240]
-Underfull \hbox (badness 10000) in paragraph at lines 4222--4224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4226--4228
-
- []
-
-
 
 [241]
 
-[242
+[242]
+附录 E
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4228--4230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4230--4232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4232--4234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4248--4250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4252--4254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4256--4258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4260--4262
+
+ []
+
+
+
+[243
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4264--4266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4268--4270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4272--4274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4276--4278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4280--4282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4284--4286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4288--4290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4292--4294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4294--4296
+
+ []
+
+
+
+[244]
+Underfull \hbox (badness 10000) in paragraph at lines 4296--4298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4300--4302
+
+ []
+
+
+
+[245]
+
+[246
 
 ]
 附录 F
 
-
-[243]
-
-[244]
-附录 G
-
-
-[245
-
-]
-
-[246]
 
 [247]
 
@@ -3456,8 +3476,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4226--4228
 [249]
 
 [250]
+附录 G
 
-[251]
+
+[251
+
+]
 
 [252]
 
@@ -3715,19 +3739,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 4226--4228
 
 [379]
 
-[380] (./bookdownproj.bbl
+[380]
 
-[381
+[381]
 
-]
-
-[382
-
-])
+[382]
 
 [383]
 
-[384
+[384]
+
+[385]
+
+[386] (./bookdownproj.bbl
+
+[387
+
+]
+
+[388
+
+])
+
+[389]
+
+[390
 
 ] (./bookdownproj.ind) (./bookdownproj.aux)
  ***********
@@ -3741,12 +3777,12 @@ Package rerunfilecheck Info: File `bookdownproj.out' has not changed.
 (rerunfilecheck)             Checksum: 9CB37D10A8104D232B1E2119D016403E;12211.
  ) 
 Here is how much of TeX's memory you used:
- 25813 strings out of 475994
- 594334 string characters out of 5777011
- 890471 words of memory out of 5000000
- 48148 multiletter control sequences out of 15000+600000
+ 25985 strings out of 475994
+ 600185 string characters out of 5777011
+ 891277 words of memory out of 5000000
+ 48319 multiletter control sequences out of 15000+600000
  588758 words of font info for 122 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,8n,126p,1643b,487s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on bookdownproj.pdf (386 pages).
+Output written on bookdownproj.pdf (392 pages).
