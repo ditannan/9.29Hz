@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  22 FEB 2025 03:01
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  23 FEB 2025 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1403,6 +1403,8 @@ Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mappin
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 File: img/guiyang20240713/001.jpg Graphic file (type bmp)
@@ -3250,8 +3252,8 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-File: img/nanning20241207/003.jpg Graphic file (type bmp)
-<img/nanning20241207/003.jpg>
+File: img/nanning20241207/005.jpg Graphic file (type bmp)
+<img/nanning20241207/005.jpg>
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3783,10 +3785,10 @@ Package rerunfilecheck Info: File `bookdownproj.out' has not changed.
 (rerunfilecheck)             Checksum: 9CB37D10A8104D232B1E2119D016403E;12211.
  ) 
 Here is how much of TeX's memory you used:
- 26054 strings out of 475994
- 602410 string characters out of 5777011
- 891546 words of memory out of 5000000
- 48387 multiletter control sequences out of 15000+600000
+ 26076 strings out of 475994
+ 603128 string characters out of 5777011
+ 891597 words of memory out of 5000000
+ 48409 multiletter control sequences out of 15000+600000
  588758 words of font info for 122 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,8n,126p,1643b,487s stack positions out of 10000i,1000n,20000p,200000b,200000s
