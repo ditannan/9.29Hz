@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  23 FEB 2025 21:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  28 FEB 2025 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3312,6 +3312,8 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+File: img/nanning20241207/006.png Graphic file (type bmp)
+<img/nanning20241207/006.png>
 File: img/weibo/nanning-20241207.png Graphic file (type bmp)
 <img/weibo/nanning-20241207.png>
 File: img/weibo/nanning-20241207-2.png Graphic file (type bmp)
@@ -3372,37 +3374,37 @@ File: img/letter.jpg Graphic file (type bmp)
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4244--4246
+Underfull \hbox (badness 10000) in paragraph at lines 4253--4255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4246--4248
+Underfull \hbox (badness 10000) in paragraph at lines 4255--4257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4248--4250
+Underfull \hbox (badness 10000) in paragraph at lines 4257--4259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4264--4266
+Underfull \hbox (badness 10000) in paragraph at lines 4273--4275
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4268--4270
+Underfull \hbox (badness 10000) in paragraph at lines 4277--4279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4272--4274
+Underfull \hbox (badness 10000) in paragraph at lines 4281--4283
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4276--4278
+Underfull \hbox (badness 10000) in paragraph at lines 4285--4287
 
  []
 
@@ -3411,59 +3413,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 4276--4278
 [243
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4280--4282
+Underfull \hbox (badness 10000) in paragraph at lines 4289--4291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4284--4286
+Underfull \hbox (badness 10000) in paragraph at lines 4293--4295
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4288--4290
+Underfull \hbox (badness 10000) in paragraph at lines 4297--4299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4292--4294
+Underfull \hbox (badness 10000) in paragraph at lines 4301--4303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4296--4298
+Underfull \hbox (badness 10000) in paragraph at lines 4305--4307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4300--4302
+Underfull \hbox (badness 10000) in paragraph at lines 4309--4311
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4304--4306
+Underfull \hbox (badness 10000) in paragraph at lines 4313--4315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4308--4310
+Underfull \hbox (badness 10000) in paragraph at lines 4317--4319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4310--4312
+Underfull \hbox (badness 10000) in paragraph at lines 4319--4321
 
  []
 
 
 
 [244]
-Underfull \hbox (badness 10000) in paragraph at lines 4312--4314
+Underfull \hbox (badness 10000) in paragraph at lines 4321--4323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4316--4318
+Underfull \hbox (badness 10000) in paragraph at lines 4325--4327
 
  []
 
@@ -3782,13 +3784,13 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `bookdownproj.out' has not changed.
-(rerunfilecheck)             Checksum: 9CB37D10A8104D232B1E2119D016403E;12211.
+(rerunfilecheck)             Checksum: 6B632FDC70CCC619F707F35F38998389;12211.
  ) 
 Here is how much of TeX's memory you used:
- 26076 strings out of 475994
- 603128 string characters out of 5777011
- 891597 words of memory out of 5000000
- 48409 multiletter control sequences out of 15000+600000
+ 26095 strings out of 475994
+ 603737 string characters out of 5777011
+ 891682 words of memory out of 5000000
+ 48428 multiletter control sequences out of 15000+600000
  588758 words of font info for 122 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,8n,126p,1643b,487s stack positions out of 10000i,1000n,20000p,200000b,200000s
