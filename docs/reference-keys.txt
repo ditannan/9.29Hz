@@ -106,8 +106,11 @@ fig:unnamed-chunk-167
 fig:unnamed-chunk-169
 fig:unnamed-chunk-171
 fig:unnamed-chunk-173
+fig:unnamed-chunk-174
 fig:unnamed-chunk-175
-fig:unnamed-chunk-176
+fig:unnamed-chunk-177
+fig:unnamed-chunk-179
+fig:unnamed-chunk-180
 shanghai-20240518
 shanghai-20240518-part1
 shanghai-20240518-part2
@@ -228,6 +231,13 @@ nanning-20241207-part2
 nanning-20241207-part3
 nanning-20241207-part4
 nanning-20241207-part5
+London-20250214
+LasVegas-20250228
+LasVegas-20250228-part1
+LasVegas-20250228-part2
+LasVegas-20250228-part3
+LasVegas-20250228-part4
+LasVegas-20250228-part5
 playlists
 appendix-gift
 appendix-letter
