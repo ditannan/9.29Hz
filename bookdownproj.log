@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  9 MAR 2025 02:48
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.17)  9 MAR 2025 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3699,16 +3699,13 @@ Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
 
 [259]
-
-LaTeX Warning: Hyper reference `often-back-hone' on page 260 undefined on input line 4506.
-
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎵 (U+1F3B5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
@@ -3765,11 +3762,6 @@ File: img/letter.jpg Graphic file (type bmp)
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4754--4756
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 4756--4758
 
  []
@@ -3780,22 +3772,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 4758--4760
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4774--4776
+Underfull \hbox (badness 10000) in paragraph at lines 4760--4762
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4778--4780
+Underfull \hbox (badness 10000) in paragraph at lines 4776--4778
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4782--4784
+Underfull \hbox (badness 10000) in paragraph at lines 4780--4782
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4786--4788
+Underfull \hbox (badness 10000) in paragraph at lines 4784--4786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4788--4790
 
  []
 
@@ -3804,42 +3801,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 4786--4788
 [271
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4790--4792
+Underfull \hbox (badness 10000) in paragraph at lines 4792--4794
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4794--4796
+Underfull \hbox (badness 10000) in paragraph at lines 4796--4798
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4798--4800
+Underfull \hbox (badness 10000) in paragraph at lines 4800--4802
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4802--4804
+Underfull \hbox (badness 10000) in paragraph at lines 4804--4806
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4806--4808
+Underfull \hbox (badness 10000) in paragraph at lines 4808--4810
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4810--4812
+Underfull \hbox (badness 10000) in paragraph at lines 4812--4814
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4814--4816
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4818--4820
+Underfull \hbox (badness 10000) in paragraph at lines 4816--4818
 
  []
 
@@ -3849,14 +3841,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 4820--4822
  []
 
 
-
-[272]
 Underfull \hbox (badness 10000) in paragraph at lines 4822--4824
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4826--4828
+
+[272]
+Underfull \hbox (badness 10000) in paragraph at lines 4824--4826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4828--4830
 
  []
 
@@ -4156,19 +4153,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 4826--4828
 
 [415]
 
-[416] (./bookdownproj.bbl
+[416]
 
-[417
-
-]
+[417]
 
 [418
 
-])
+] (./bookdownproj.bbl
 
 [419]
 
 [420
+
+])
+
+[421]
+
+[422
 
 ] (./bookdownproj.ind) (./bookdownproj.aux)
  ***********
@@ -4178,19 +4179,16 @@ L3 programming layer <2022/08/05>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `bookdownproj.out' has not changed.
 (rerunfilecheck)             Checksum: 6A4B5028B46FE36BB4A0F025D7FD4D69;13993.
  ) 
 Here is how much of TeX's memory you used:
  26293 strings out of 475994
  613341 string characters out of 5777011
- 894633 words of memory out of 5000000
+ 894630 words of memory out of 5000000
  48619 multiletter control sequences out of 15000+600000
  588758 words of font info for 122 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,8n,126p,1643b,487s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on bookdownproj.pdf (422 pages).
+Output written on bookdownproj.pdf (424 pages).
