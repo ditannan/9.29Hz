@@ -161,17 +161,35 @@
 \contentsline {section}{\numberline {28.3}Part3}{304}{section.28.3}%
 \contentsline {section}{\numberline {28.4}Part4}{305}{section.28.4}%
 \contentsline {section}{\numberline {28.5}Part5}{308}{section.28.5}%
-\contentsline {chapter}{附录}{309}{section.28.5}%
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}9.29Hz巡回演唱会歌单}{311}{appendix.A}%
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}9.29Hz巡回演唱会彩带和伴手礼}{313}{appendix.B}%
-\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}十年来信}{315}{appendix.C}%
-\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}9.29Hz巡回演唱会VCR文字版}{317}{appendix.D}%
-\contentsline {section}{\numberline {D.1}开场VCR}{317}{section.D.1}%
-\contentsline {section}{\numberline {D.2}反深代词VCR}{318}{section.D.2}%
-\contentsline {section}{\numberline {D.3}客服大门VCR}{319}{section.D.3}%
-\contentsline {section}{\numberline {D.4}谢谢你VCR}{320}{section.D.4}%
-\contentsline {chapter}{\numberline {附录 E\hspace {.3em}}9.29Hz巡回演唱会相关资源}{321}{appendix.E}%
-\contentsline {section}{\numberline {E.1}9.29Hz巡演各场回顾vlog}{321}{section.E.1}%
-\contentsline {section}{\numberline {E.2}9.29Hz巡演官方视频}{323}{section.E.2}%
-\contentsline {chapter}{\numberline {附录 F\hspace {.3em}}9.29Hz巡回演唱会致谢名单}{325}{appendix.F}%
-\contentsline {chapter}{\numberline {附录 G\hspace {.3em}}9.29Hz巡回演唱会歌曲歌词}{329}{appendix.G}%
+\contentsline {chapter}{\numberline {第二十九章\hspace {.3em}}2025.04.06悉尼场}{311}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Part1}{312}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Part2}{313}{section.29.2}%
+\contentsline {section}{\numberline {29.3}Part3}{315}{section.29.3}%
+\contentsline {section}{\numberline {29.4}Part4}{317}{section.29.4}%
+\contentsline {section}{\numberline {29.5}Part5}{320}{section.29.5}%
+\contentsline {chapter}{\numberline {第三十章\hspace {.3em}}2025.04.12吉隆坡场}{323}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Part1}{324}{section.30.1}%
+\contentsline {section}{\numberline {30.2}Part2}{324}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Part3}{325}{section.30.3}%
+\contentsline {section}{\numberline {30.4}Part4}{325}{section.30.4}%
+\contentsline {section}{\numberline {30.5}Part5}{326}{section.30.5}%
+\contentsline {chapter}{\numberline {第三十一章\hspace {.3em}}2025.04.13吉隆坡场}{327}{chapter.31}%
+\contentsline {section}{\numberline {31.1}Part1}{328}{section.31.1}%
+\contentsline {section}{\numberline {31.2}Part2}{328}{section.31.2}%
+\contentsline {section}{\numberline {31.3}Part3}{329}{section.31.3}%
+\contentsline {section}{\numberline {31.4}Part4}{329}{section.31.4}%
+\contentsline {section}{\numberline {31.5}Part5}{330}{section.31.5}%
+\contentsline {chapter}{附录}{330}{section.31.5}%
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}9.29Hz巡回演唱会歌单}{331}{appendix.A}%
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}9.29Hz巡回演唱会彩带和伴手礼}{333}{appendix.B}%
+\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}十年来信}{335}{appendix.C}%
+\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}9.29Hz巡回演唱会VCR文字版}{337}{appendix.D}%
+\contentsline {section}{\numberline {D.1}开场VCR}{337}{section.D.1}%
+\contentsline {section}{\numberline {D.2}反深代词VCR}{338}{section.D.2}%
+\contentsline {section}{\numberline {D.3}客服大门VCR}{339}{section.D.3}%
+\contentsline {section}{\numberline {D.4}谢谢你VCR}{340}{section.D.4}%
+\contentsline {chapter}{\numberline {附录 E\hspace {.3em}}9.29Hz巡回演唱会相关资源}{341}{appendix.E}%
+\contentsline {section}{\numberline {E.1}9.29Hz巡演各场回顾vlog}{341}{section.E.1}%
+\contentsline {section}{\numberline {E.2}9.29Hz巡演官方视频}{343}{section.E.2}%
+\contentsline {chapter}{\numberline {附录 F\hspace {.3em}}9.29Hz巡回演唱会致谢名单}{345}{appendix.F}%
+\contentsline {chapter}{\numberline {附录 G\hspace {.3em}}9.29Hz巡回演唱会歌曲歌词}{349}{appendix.G}%
